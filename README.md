@@ -8,7 +8,7 @@ Our core idea is to integrate noise-type prompts (labels) into a U-Net backbone 
 ## How to install
 1. Create a virtual environment using conda, naming cvhw4 for example.  
    ```conda create -n cvhw4 python=3.10 -y```  
-2. Activate the environment.
+2. Activate the environment.  
    ```conda activate cvhw4 ```  
 3. Install the requirements.txt  
    ```pip install -r requirements.txt```  
