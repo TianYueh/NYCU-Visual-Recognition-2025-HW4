@@ -16,7 +16,7 @@ Our core idea is to integrate noise-type prompts (labels) into a U-Net backbone 
    ```python train_promptir.py``` or ```python train_weather.py```  
 5. Inference and get the images  
    ```python test_promptir.py``` or ```python test_weather.py```  
-6. Transform the images to pred.npz
+6. Transform the images to pred.npz  
    ```python example_img2npz.py```
 ## Performance Snapshot  
 <img width="1161" alt="截圖 2025-05-28 晚上9 47 29" src="https://github.com/user-attachments/assets/6b36091e-8ec7-4a5b-8b04-8e1ef25d9db7" />  
